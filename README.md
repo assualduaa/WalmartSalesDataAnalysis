@@ -7,4 +7,5 @@ This dataset was designed to analyze Walmart’s weekly sales performance across
 So, the goal is to answer:
 
 “What factors drive sales performance at Walmart stores — and how can we forecast or improve them?”
-<img width="1131" height="667" alt="image" src="https://github.com/user-attachments/assets/a7377f02-9a1c-4833-9c97-2f045ed7fa13" />
+<img width="731" height="616" alt="image" src="https://github.com/user-attachments/assets/a816872b-e1ce-4250-985b-e13f8f4b11ff" />
+
